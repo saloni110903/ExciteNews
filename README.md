@@ -57,6 +57,7 @@ Use Your API Key:
 
 In your application, store the API key securely. You'll need to include this key in your API requests to authenticate and access news data.
 
+![image](https://github.com/user-attachments/assets/bd966a98-a124-4930-920d-181e7ad89511)
 
 ![image](https://github.com/user-attachments/assets/bb7608a3-f8fd-4434-9883-cb72c5d73481)
 ![image](https://github.com/user-attachments/assets/93167779-32ba-4fb6-aa93-3bdca6b80149)
