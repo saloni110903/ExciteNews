@@ -1,0 +1,39 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 1rem;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    background-color: #343a40;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fff;
+}
+
+.form-control,
+.form-select {
+    width: 100%;
+}
+
